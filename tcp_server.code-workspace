@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "cfs.configureWorkspace": "Yes",
+    "cfs.project.board": "AD-APARD32690-SL",
+    "cfs.project.target": "MAX32690",
+    "terminal.integrated.defaultProfile.windows": "CFS Terminal",
+    "terminal.integrated.defaultProfile.osx": "CFS Terminal",
+    "terminal.integrated.defaultProfile.linux": "CFS Terminal",
+    "cfs.home.openAtStartup": "No",
+    "cortex-debug.variableUseNaturalFormat": true,
+  },
+  "folders": [
+    {
+      "path": ".cfs"
+    },
+        {
+      "path": "CM4"
+    },
+      ]
+}
